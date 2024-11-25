@@ -41,6 +41,8 @@ function promptUser(): void {
     });
 }
 promptUser();
+
+/*I like it
 /*
 console.clear();
 console.log(`${collection.userName}'s Todo List`);
