@@ -8,11 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "inquirer": "^6.5.2"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.7"
-  },
-  "description": ""
+    "inquirer": "^6.3.1"
+  }
 }
